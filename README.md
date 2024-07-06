@@ -16,7 +16,7 @@ and create the `/actions` folder instead
 # Install dependencies
 bun i
 
-# Run the development database
+# Run the development database https://docs.turso.tech/local-development (only in development)
 bun dev:db:turso
 
 # Run the drizzle generator
