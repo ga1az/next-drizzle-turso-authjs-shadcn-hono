@@ -3,10 +3,10 @@
 Stack: Next.js, TypeScript, TailwindCSS, Shadcn, Drizzle, Turso, Authjs, Hono
 
 if you want to use the server actions, just delete the folders:
-/server
-/app/api/[[...route]]]
+- `/server`
+- `/app/api/[[...route]]]`
 
-and create the /actions folder instead
+and create the `/actions` folder instead
 
 ## Getting Started
 
